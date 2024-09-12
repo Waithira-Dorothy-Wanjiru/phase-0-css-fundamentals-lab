@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color:black;
+  text-align:center;s
+}
+nav a {
+  background-color:grey;
+padding:10px 10px;
+position:relative;
+left:36%;
+
+}
+img {
+  margin:0 auto;
+  display:block;
+  width:900px;
+}
+figcaption{
+  font-size:medium;
+  text-align:center;
+}
+section#details{
+  justify-content:center;
+  display:flex;
+ justify-content: space-evenly;
+background-color: red;
+
+}
+#featured-property p{                              
+  width:800px;
+  position:relative;
+  left:30%;
+}
+
